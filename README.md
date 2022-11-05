@@ -16,8 +16,10 @@ Some of the key topics included are:
 
 ## Projects
 
-1. FaceBook
-   This is a FaceBook Login/SignUp page clone styled purely using TailWind-CSS
+1. **FaceBook**
 
-2. Microsoft
-   This is Microsoft HomePage and it is a responsive web page.
+- This is a FaceBook Login/SignUp page clone styled purely using TailWind-CSS
+
+2. **Microsoft**
+
+- This is Microsoft HomePage and it is a responsive web page.
